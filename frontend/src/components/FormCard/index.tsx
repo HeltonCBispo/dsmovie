@@ -11,7 +11,6 @@ type Props = {
     }
 
 
-
 function FormCard( { movieId } : Props) {
 
     const navigate = useNavigate();
